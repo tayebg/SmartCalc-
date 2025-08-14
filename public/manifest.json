@@ -1,0 +1,12 @@
+{
+  "name": "SmartCalc+",
+  "short_name": "SmartCalc+",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#6366F1",
+  "icons": [
+    { "src": "/icons/smartcalc-logo-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/smartcalc-logo-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "home": {
+    "title": "ابدأ رحلتك",
+    "subtitle": "واجهة SmartCalc+ الحديثة مع حسابات الدرجات بشكل كامل.",
+    "watch": "شاهد الدروس",
+    "ctaStart": "ابدأ رحلتك"
+  },
+  "navbar": {
+    "calculations": "الحسابات",
+    "drives": "المحركات",
+    "videos": "الفيديوهات",
+    "pfe": "مشروع التخرج",
+    "doctorat": "الدكتوراه",
+    "canevas": "القوالب",
+    "notes": "الملاحظات",
+    "contact": "اتصل بنا"
+  },
+  "footer": {
+    "tagline": "واجهة أكاديمية حديثة.",
+    "quickLinks": "روابط سريعة",
+    "videos": "الفيديوهات",
+    "drives": "المحركات",
+    "calculations": "الحسابات",
+    "canevas": "القوالب",
+    "contact": "اتصل بنا",
+    "privacy": "سياسة الخصوصية",
+    "madeWith": "صنع بحب"
+  },
+  "modals": {
+    "welcome": {
+      "title": "مرحبًا",
+      "desc": "مرحبًا بك في SmartCalc+. استكشف الميزات من شريط التنقل."
+    },
+    "tutorials": {
+      "title": "الدروس قريبًا…",
+      "desc": "أدخل بريدك الإلكتروني ليصلك إشعار عند نشر الدروس."
+    }
+  },
+  "actions": {
+    "cancel": "إلغاء",
+    "notifyMe": "أعلمني"
+  },
+  "states": {
+    "sending": "جارٍ الإرسال…"
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "metaDescription": "تواصل مع فريق SmartCalc+ عبر البريد الإلكتروني أو لينكدإن.",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "subject": "الموضوع",
+    "message": "الرسالة",
+    "send": "إرسال",
+    "getInTouch": "تواصل معنا",
+    "sendTestEmail": "أرسل بريدًا تجريبيًا",
+    "autotestActive": "اختبار تلقائي مفعل",
+    "placeholders": {
+      "name": "أدخل اسمك",
+      "email": "you@example.com",
+      "subject": "الموضوع",
+      "message": "اكتب رسالتك..."
+    },
+    "office": {
+      "title": "معلومات المكتب",
+      "universityTitle": "الجامعة",
+      "universityText": "USTO-MB، وهران - قسم الإعلام الآلي",
+      "availabilityTitle": "ساعات العمل",
+      "availabilityText": "الإثنين - الجمعة: 9 صباحًا - 6 مساءً",
+      "platformTitle": "المنصة",
+      "platformTextMain": "منصة SmartCalc+ التعليمية — نحن هنا للمساعدة",
+      "platformTextDesc": "تم تصميم SmartCalc+ لطلبة نظام LMD في جامعة USTO-MB، لكن جميع طلبة الإعلام الآلي يمكنهم الاستفادة من منصتنا. لا تتردد في التواصل لطرح الأسئلة أو الاقتراحات!"
+    },
+    "toasts": {
+      "fillFields": "يرجى ملء جميع الحقول",
+      "success": "تم إرسال الرسالة بنجاح!",
+      "error": "عذرًا! حدث خطأ ما.",
+      "networkError": "خطأ في الشبكة"
+    }
+  },
+  "privacy": {
+    "title": "سياسة الخصوصية",
+    "description": "نستخدم Google AdSense (عند التفعيل) وملفات تعريف الارتباط للتحليلات والتحسينات. لا يتم تخزين أي بيانات شخصية بواسطة هذه الواجهة. يرجى الرجوع إلى سياسات الخصوصية الخاصة بـ Google لمزيد من التفاصيل."
+  }
+}

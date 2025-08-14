@@ -1,0 +1,84 @@
+{
+  "home": {
+    "title": "Start Your Journey",
+    "subtitle": "SmartCalc+ modern interface with fully functional grade calculations.",
+    "watch": "Watch Tutorials",
+    "ctaStart": "Start Your Journey"
+  },
+  "navbar": {
+    "calculations": "Calculations",
+    "drives": "Drives",
+    "videos": "Videos",
+    "pfe": "PFE",
+    "doctorat": "Doctorat",
+    "canevas": "Canevas",
+    "notes": "Notes",
+    "contact": "Contact"
+  },
+  "footer": {
+    "tagline": "Modern Academic Toolkit UI.",
+    "quickLinks": "Quick Links",
+    "videos": "Videos",
+    "drives": "Drives",
+    "calculations": "Calculations",
+    "canevas": "Canevas",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "madeWith": "Made with"
+  },
+  "modals": {
+    "welcome": {
+      "title": "Welcome",
+      "desc": "Welcome to SmartCalc+. Explore features from the navbar."
+    },
+    "tutorials": {
+      "title": "Tutorials Coming Soon…",
+      "desc": "Enter your email to be notified when tutorials are published."
+    }
+  },
+  "actions": {
+    "cancel": "Cancel",
+    "notifyMe": "Notify me"
+  },
+  "states": {
+    "sending": "Sending…"
+  },
+  "contact": {
+    "title": "Contact",
+    "metaDescription": "Contact SmartCalc+ team via email or LinkedIn.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send",
+    "getInTouch": "Get in touch",
+    "sendTestEmail": "Send Test Email",
+    "autotestActive": "Autotest active",
+    "placeholders": {
+      "name": "Enter your name",
+      "email": "you@example.com",
+      "subject": "Subject",
+      "message": "Write your message..."
+    },
+    "office": {
+      "title": "Office Information",
+      "universityTitle": "University",
+      "universityText": "USTO-MB, Oran - Département d'Informatique",
+      "availabilityTitle": "Availability",
+      "availabilityText": "Monday - Friday: 9 AM - 6 PM",
+      "platformTitle": "Platform",
+      "platformTextMain": "SmartCalc+ Educational Platform — We're Here to Help",
+      "platformTextDesc": "SmartCalc+ is designed for LMD students at USTO-MB University, but all CS students can benefit from our platform. Feel free to reach out for questions or suggestions!"
+    },
+    "toasts": {
+      "fillFields": "Please fill out all fields",
+      "success": "Message sent successfully!",
+      "error": "Oops! Something went wrong.",
+      "networkError": "Network error"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "We use Google AdSense (when enabled) and cookies for analytics and improvements. No personal data is stored by this UI. Refer to Google's privacy policies for more details."
+  }
+}
