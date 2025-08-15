@@ -16,10 +16,10 @@ export default function AppShell({ children }: { children: ReactNode }) {
   if (loading) return <SplashScreen />;
 
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen flex flex-col overflow-x-hidden">
       <Navbar />
       {/* Add top padding to account for the fixed header height */}
-      <div className="flex-1 pt-16 motion-safe:animate-drop-in">{children}</div>
+      <div className="flex-1 pt-16 motion-safe:animate-drop-in overflow-x-hidden">{children}</div>
       {showFooter && <Footer />}
     </div>
   );
