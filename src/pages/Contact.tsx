@@ -165,7 +165,7 @@ export default function Contact() {
   ), [test, autotest, loading]);
 
   return (
-    <main className="container mx-auto px-4 py-10 space-y-6">
+    <main className="container mx-auto px-4 py-10 space-y-6 overflow-x-hidden min-w-0">
       <h1 className="text-2xl font-bold flex items-center gap-2">
         <Icon name="phone" size={24} />
         {t('contact.title')}
